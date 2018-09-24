@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_title">
+        <item>注册会员</item>
+        <item>下单中心</item>
+        <item>订单中心</item>
+        <item>用户预约</item>
+        <item>医美预约</item>
+        <item>我的店铺</item>
+    </string-array>
+
+</resources>
